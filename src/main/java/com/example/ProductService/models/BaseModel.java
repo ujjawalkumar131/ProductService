@@ -9,6 +9,5 @@ import java.util.Date;
 @Setter
 public class BaseModel {
     private Long id;
-    private Date createdAt;
-    private Date updatedAt;
+
 }
